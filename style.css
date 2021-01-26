@@ -1,0 +1,29 @@
+body {
+    background: cyan;
+}
+h1 {
+    font-size: 70px;
+    color: red;
+    text-align: center;
+}
+p {
+    font-size: 20px;
+    background-color: yellow;
+}
+h2 {
+    font-size: 40px;
+    color: tomato;
+    text-align: center;
+}
+ form {
+    text-align: center;
+   background-color: salmon;
+   color: red;
+    
+    
+    
+}
+h3 {
+    background-color: green;
+    color: blue;
+}
